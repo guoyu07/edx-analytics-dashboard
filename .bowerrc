@@ -3,5 +3,6 @@
     "interactive": false,
     "scripts": {
         "postinstall": "./bower-post-install.sh"
-    }
+    },
+    "registry": "http://bower.herokuapp.com"
 }
